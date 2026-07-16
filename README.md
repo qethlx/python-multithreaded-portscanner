@@ -19,3 +19,11 @@ The scanner utilizes a **TCP Connect Scan** approach. It attempts to complete a 
    ```bash
    git clone [https://github.com/qethlx/python-multithreaded-portscanner.git](https://github.com/qethlx/python-multithreaded-portscanner.git)
    cd python-multithreaded-portscanner
+
+
+Run the scanner:
+
+Bash
+python scanner.py
+
+Enter the target IP or domain when prompted (e.g., scanme.nmap.org).
